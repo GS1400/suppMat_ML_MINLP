@@ -1,4 +1,4 @@
-This supplemental material contains the full collection of exact MINLP methods and related MINLP software. For completeness, we also include the algorithms demonstrating how machine learning and reinforcement learning can enhance MINLP techniques.
+This supplemental material contains several MILP/MINLP examples, exact MINLP methods, and related MINLP software. For completeness, we also include the algorithms demonstrating how machine learning and reinforcement learning can enhance MINLP techniques.
 
 The full original preprint, available at 
  	
